@@ -1,0 +1,6 @@
+{
+  "name": "HelloTalk",
+  "description": "Global language exchange app with live voice rooms, instant text translation, grammar corrections, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
